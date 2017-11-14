@@ -1,0 +1,9 @@
+{
+  "name": "@jest-error/main",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "devDependencies": {
+    "@jest-error/test-class": "^1.0.0",
+    "@jest-error/check-instance": "^1.0.0"
+  }
+}
